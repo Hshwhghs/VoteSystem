@@ -1,0 +1,30 @@
+{
+  "id": "3756657",
+  "name": "votesystem",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5474825",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "8939734",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "22759029",
+      "name": "组织",
+      "font_class": "zuzhi",
+      "unicode": "f7f9",
+      "unicode_decimal": 63481
+    }
+  ]
+}
